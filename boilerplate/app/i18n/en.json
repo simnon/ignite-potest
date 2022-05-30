@@ -1,34 +1,34 @@
 {
     "common": {
-        "ok": "",
-        "cancel": "",
-        "back": ""
+        "ok": "OK",
+        "cancel": "annuleren",
+        "back": "rug"
     },
     "errors": {
-        "invalidEmail": ""
+        "invalidEmail": "ongeldig e-mail"
     },
     "welcomeScreen": {
-        "poweredBy": "",
-        "readyForLaunch": "",
-        "continue": ""
+        "poweredBy": "aangedreven door",
+        "readyForLaunch": "readyForLaunch",
+        "continue": "doorgaan"
     },
     "demoScreen": {
-        "howTo": "",
-        "title": "",
-        "tagLine": "",
-        "reactotron": "",
-        "demoList": "",
-        "androidReactotronHint": "",
-        "iosReactotronHint": "",
-        "macosReactotronHint": "",
-        "webReactotronHint": "",
-        "windowsReactotronHint": ""
+        "howTo": "hoe",
+        "title": "titel",
+        "tagLine": "tagLine",
+        "reactotron": "retotron",
+        "demoList": "demoLijst",
+        "androidReactotronHint": "androidReactotronTip:",
+        "iosReactotronHint": "iosReactotronHint",
+        "macosReactotronHint": "macosReactotronTip:",
+        "webReactotronHint": "webReactotronTip",
+        "windowsReactotronHint": "windowsReactotronTip"
     },
     "demoListScreen": {
-        "title": ""
+        "title": "titel"
     },
     "storybook": {
-        "placeholder": "",
-        "field": ""
+        "placeholder": "tijdelijke aanduiding",
+        "field": "veld"
     }
 }
